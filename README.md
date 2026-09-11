@@ -4,18 +4,12 @@
 
 This repository contains the projects I completed as part of my **Python Programming Internship at CodSoft**.
 
-## 👨‍💻 Intern
-
 **Name:** Umang Chauhan  
 **Internship:** Python Programming Internship  
 **Organization:** CodSoft  
 **Year:** 2026
 
----
-
-## 📌 Tasks Completed
-
-### 🔹 Task 1 – To-Do List
+Task 1 – To-Do List
 
 A command-line To-Do List application developed using Python.
 
@@ -28,9 +22,7 @@ A command-line To-Do List application developed using Python.
 
 **File:** `Task1_ToDo_List/todo_list.py`
 
----
-
-### 🔹 Task 2 – Calculator
+Task 2 – Calculator
 
 An advanced command-line calculator developed using Python.
 
@@ -47,9 +39,7 @@ An advanced command-line calculator developed using Python.
 
 **File:** `Task2_Calculator/calculator.py`
 
----
-
-### 🔹 Task 3 – Password Generator
+Task 3 – Password Generator
 
 A Python application that generates random passwords based on the length specified by the user.
 
@@ -62,27 +52,20 @@ A Python application that generates random passwords based on the length specifi
 
 **File:** `Task3_Password_Generator/password_generator.py`
 
----
-
-## 🛠️ Technologies Used
+Technologies Used
 
 - Python
 - Python Standard Library
 
----
 
-## 📂 Repository Structure
+ Repository Structure
 
 ```text
 CODSOFT_TASKSNO/
-│
-├── Task1_ToDo_List/
-│   └── todo_list.py
-│
-├── Task2_Calculator/
-│   └── calculator.py
-│
-├── Task3_Password_Generator/
-│   └── password_generator.py
-│
-└── README.md
+ Task1_ToDo_List/
+    todo_list.py
+Task2_Calculator/
+    calculator.py
+Task3_Password_Generator/
+    password_generator.py
+README.md
